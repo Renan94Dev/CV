@@ -12,7 +12,7 @@ Primeiro, rode esses comando no seu terminar:
 npm run prepare && npm run dev
 ```
 
-E agora, abra [http://localhost:3000](http://localhost:3000) com seu navegador para abrir o visualizar o CV e também salvar o pdf.
+E agora, abra [http://localhost:3000](http://localhost:3000) com seu navegador para visualizar o CV e também salvar o pdf.
 
 Para editar com as suas informações, edite o arquivo `src/data/user.ts`
 
